@@ -1,0 +1,17 @@
+# Import Statements
+
+# Function Definitions
+
+# Program Logic
+# Assign values to variable: name, goal, birth_year, and current_year
+name = "Madison Dailey"
+goal = "I want to become a game developer."
+birth_year = 2005
+current_year = 2026
+# Calculate age
+age = current_year - birth_year
+# Print top border
+print("=" * 25)
+# Print bio sentence
+print("My name is " + name + " and I am" + str(age) + " years old.")
+# Print bottom border
